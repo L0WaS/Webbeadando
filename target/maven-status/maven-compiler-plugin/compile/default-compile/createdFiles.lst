@@ -1,0 +1,8 @@
+com\example\webbeadando\product\persistence\entity\Product.class
+com\example\webbeadando\configuration\InMemoryDatabaseInitializer.class
+com\example\webbeadando\WebApplication.class
+com\example\webbeadando\product\exception\ProductNotFoundException.class
+com\example\webbeadando\product\service\ProductService.class
+com\example\webbeadando\configuration\AppSecurityConfiguration.class
+com\example\webbeadando\product\controller\ProductController.class
+com\example\webbeadando\product\persistence\repository\ProductRepository.class
